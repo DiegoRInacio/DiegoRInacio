@@ -7,10 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoRInacio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nicole-ocampo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicole-ocampo&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-ocampo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+    # 📊 GitHub Stats:
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=nicole-ocampo&theme=tokyonight&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-ocampo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
